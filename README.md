@@ -1,2 +1,2 @@
-# pot_hole_segmentation
-here pot hole segmentation is done for self driving car in order to dertect potholes for self driving car and collaborative segmentation
+# pot_hole_segmentation_classification_detection
+here pot hole Detection is done for self driving car in order to dertect and classify  potholes for self driving car and collaborative segmentation
